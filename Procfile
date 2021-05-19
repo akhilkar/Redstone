@@ -1,1 +1,0 @@
-web: gunicorn NotAgain.wsgi --log-file -
