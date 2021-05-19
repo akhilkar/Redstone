@@ -1,4 +1,4 @@
-gevent --pre
+gevent --1.4
 auto-py-to-exe
 asgiref==3.3.4
 astroid==2.5.3
