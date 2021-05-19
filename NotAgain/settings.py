@@ -24,7 +24,7 @@ SECRET_KEY = 'django-insecure-^t3(o##eh)$ybg@^%)r@$ovb&dh2pbxd1&!z)o-r5rzfbl*+9v
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1', 'redstone-erp-system.herokuapp.com']
 
 # Application definition
 
